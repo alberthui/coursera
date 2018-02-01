@@ -1,0 +1,42 @@
+1. Question 1
+Under the “Don’t put all your eggs in one basket” analogy, the eggs represent individual investments and the basket represents the overall investment portfolio. Spreading your “eggs” around allows you to:
+Maximize the possibility that good luck for a single investment positively affects your overall portfolio.
+> Minimize the possibility that bad luck for a single investment adversely affects your overall portfolio.
+Increase the uncertainty of your overall portfolio so you can try to generate an extra return.
+Maximize the return of your overall portfolio.
+
+2. Question 2
+Risk diversification can be better achieved: (check all that apply)
+> By including in your portfolio all classes of assets traded in the market, independently of their risks.
+> With mutual funds or unit investment trusts if you hold a small number of assets.
+With only stocks in your portfolio.
+With only low risk assets in your portfolio.
+
+3. Question 3
+Short selling, which is defined as the sale of a security that the seller has borrowed, is motivated by the belief that:
+> The price of the security will decline.
+Short selling is never prompted by speculation.
+The price of the security will stay the same.
+The price of the security will rise.
+
+4. Question 4
+The expected return of a portfolio is computed as ___________ and the standard deviation of a portfolio is ___________.
+the simple average of the expected returns of each asset in the portfolio
+the weighted average of the standard deviations of each individual asset
+
+> the weighted average of the expected returns of each asset in the portfolio, weighted by the investment in each asset
+> NOT the weighted average of the standard deviations of each individual asset
+
+the weighted average of the expected returns of each asset in the portfolio, weighted by the investment in each asset
+the weighted average of the standard deviations of each individual asset
+
+the simple average of the expected returns of each asset in the portfolio
+NOT the weighted average of the standard deviations of each individual asset
+
+5. Question 5
+An efficient portfolio is a combination of assets which:
+
+Achieves the highest possible covariance among its assets.
+> Achieves the highest return for a given risk.
+Offers a risk free rate of return by minimizing the risk of the portfolio.
+Minimizes risk by ensuring only diversifiable risk remains.
