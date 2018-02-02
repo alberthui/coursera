@@ -1,0 +1,33 @@
+1. Question 1
+In the S&P 500 forecasting exercise, many subjects seemed to be subject to the representativeness heuristic. This concept of behavioral finance posits that:
+
+Most people don’t behave like forecasters, they tend to rely too heavily on the first piece of new information offered when making decisions.
+Most people don’t behave like forecasters, they tend to interpret new evidence as a confirmation of their existing beliefs or theories.
+Most people don’t behave like forecasters, they tend to be affected by their recurring thoughts at the time.
+> Most people don’t behave like forecasters, what they saw in the past is representative of the future.
+
+2. Question 2
+An efficient market is defined as one in which:
+
+> Asset prices quickly and fully reflect all available information.
+All participants have the same opportunity to generate the same returns.
+Asset prices are often in line with the intrinsic value.
+Transactions are ultimately costless.
+
+3. Question 3
+The Dividend Discount Model (or Gordon Growth Model) can be stated as follows.
+
+Let the investor’s discount rate be equal to r .If earnings equal dividends, and if dividends grow at the long-run rate g, then the price of the stock P can be written as follows:
+
+P = (E*r)/(g)
+P = E/(r+g)
+P = (E*g)/(r)
+> P = E/(r-g)
+
+4. Question 4
+Human judgment and experience can play a role in the advent of stock market crash because:
+
+> A lot of people who have lived through financial crises have reported that, as a consequence of these crises and their narratives, their faiths in the market have diminished.
+Investors with an experience of financial crises are better at diversifying their portfolios.
+Investors with an experience of financial crises are better at exploiting profit opportunities.
+Investors with an experience of financial crises are better at staying out of the market in turbulent times.
