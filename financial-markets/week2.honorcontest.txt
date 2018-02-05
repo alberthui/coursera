@@ -1,0 +1,87 @@
+1. Question 1
+A limited liability corporation in which you are a shareholder has just gone bankrupt. The company has a large debt, that is its liabilities are far in excess of its assets. Hence, you will be called on to pay:
+
+> Nothing.
+An amount that could, at most, equal what you originally paid for the shares of common stock in the corporation.
+A proportional share of all creditor claims based on the number of common shares that you own.
+A proportion of the total debt, which is decided at the discretion of the bankruptcy judge.
+
+2. Question 2
+The inflation risk, which inflation indexation aims to mitigate (check all that apply)
+
+> Is not the risk that there will be inflation, it is the risk that inflation will significantly fluctuate over time.
+> Is associated with any investment that involves cash flows over time.
+> Is the risk that the cash flow from an investment won’t be worth as much in the future because of changes in purchasing power due to inflation.
+Is the risk that the nominal rate of return of an investment will exceed the rate of inflation.
+
+3. Question 3
+The concept of human capital risk (check all that apply):
+
+> Is a risk associated with the present value of all your future wages.
+Is not correlated with professional competency.
+Is not correlated with the stock market.
+> Can also be considered as a protection against inflation.
+
+4. Question 4
+The random walk hypothesis of the Efficient Market Theory posits that:
+
+Historical stock prices follow a random walk.
+Stock price volatility follows a random walk.
+Historical stock returns follow a random walk.
+> Short-term investment returns are inherently unpredictable.
+
+5. Question 5
+Suppose a market is inefficient. As new information is received about an asset:
+
+Investors will short the stock.
+Nothing will happen.
+> There will be a lag in the adjustment of the stock price.
+The volatility (standard deviation) of the stock price will increase.
+
+6. Question 6
+Investors mainly use the price-to-earnings (P/E) ratio in order to:
+
+Decide how much profit a company is likely to make in the future.
+Determine the optimal risk-return ratio.
+> Decide whether a company’s shares are overpriced or underpriced.
+Determine the optimal price for the company’s products.
+
+7. Question 7
+What is the shape of the value function in prospect theory?
+
+Gains: concave up; Losses: concave up
+Gains: concave up, Losses: concave down
+> Gains: concave down; Losses: concave up
+Gains: concave down; Losses: concave down
+
+8. Question 8
+Which of the following provide evidence that investors experience cognitive dissonance?
+
+Investors buy and sell stocks very rapidly
+Investors choose investments which already have many other investors
+> Investors do not remember the negative performance of their investments.
+> Investors hold onto funds that are doing poorly
+
+9. Question 9
+Which of the following situations are examples of the framing effect? (check all that apply)
+
+An elevator lists a maximum capacity of 2000 lbs, even though it can safely carry up to 5000 lbs.
+> A mattress which costs $1000 is advertised as $4000 with a "75% off" sticker on it
+A gold coin is sold for $1000, even though it is only worth $300.
+> A stock splits from $60 to $30 and investors are given twice as many shares
+
+10. Question 10
+Which of the following defines the relationship of doctors to patients, but generally does not apply to the relationship of financial advisors to their clients?
+
+Patients can do their own background research on medical concepts to help them better understand their health, but finance is too complicated for clients to do this.
+Doctors use both data and experience/intuition when advising patients, but financial advisors must use either one or the other.
+> Doctors have made an oath of loyalty to their patients, but financial advisors have not.
+Patients may seek second opinions from other doctors, but not from financial advisors.
+
+11. Question 11
+Which describes the concept of social contagion?
+
+Contagious diseases tend to spread in social situations.
+> Ideas can evolve and develop in a similar way to genes, and we can use the principles of evolutionary biology to understand this development.
+Mathematical models of disease spread can be applied to the spread of ideas
+When an idea gains cultural momentum, it is more likely to be propagated throughout generations
