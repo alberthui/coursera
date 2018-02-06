@@ -1,0 +1,63 @@
+1. Question 1
+Which of the following describes current short term interest rates?
+
+> They are approximately equal to zero
+They are very high
+They are strongly negative
+They are changing for the first time in the last 100 years
+
+2. Question 2
+What is the Federal Funds Rate and how long does it take to mature?
+
+The shortest term interest rate in the federal government, which takes one month to mature.
+The shortest term interest rate in the federal government, which takes one hour to mature.
+> The shortest term interest rate in the federal government, which takes one day to mature.
+The longest term interest rate in the federal government, which takes one year to mature.
+
+3. Question 3
+If you put $1000 into an account with a 20% interest rate, how much money will you have at the end of the year if interest is compounded ONCE per year?
+
+200
+> 1200
+1210
+1440
+
+4. Question 4
+How do coupon bonds work?
+
+You purchase a bond for the same price you eventually sell it for, but if you have a “coupon”, you may buy it for less money.
+You purchase a bond for one price, but the final price you may sell it for depends on the type of “coupons” that are released to account for inflation.
+You purchase a bond for the same price you eventually sell it for, but bond owners are eligible for special offers from the federal government, also known as “coupons”, which incentivize the purchase of the bonds.
+> You purchase a bond for the same price you eventually sell it for, but while it reaches maturity, you may clip “coupons” off the bond and exchange them for money.
+
+5. Question 5
+What is the main difference between a consol and an annuity ?
+
+> A consol pays a constant quantity (coupon) forever, whereas the annuity also pays a constant quantity but only until a fixed time T called the maturity date.
+A consol is not subject to market risk.
+An annuity pays a constant quantity (coupon) forever, whereas the consol also pays a constant quantity but only until a fixed time T called the maturity date.
+The consol has a fixed price of $1 at inception whereas the annuity price is given by the market.
+
+6. Question 6
+The forward rate is:
+
+> The expected rate (yield) on a bond several months or years from now.
+The (inflation-adjusted) rate on a bond.
+Equal to the yield to maturity of the bond.
+Equal to the nominal rate of the bond.
+
+7. Question 7
+The real interest rate is calculated by:
+
+Adding the nominal interest rate and the yield to maturity.
+> Subtracting the inflation rate from the nominal interest rate.
+Subtracting the nominal interest rate from the inflation rate.
+Adding the inflation rate and the nominal interest rate.
+
+8. Question 8
+Irving Fisher’s Debt Deflation Theory starts from the observation that:
+
+Deflation has no impact on the real wealth of creditors.
+Deflation has no impact on the real wealth of debtors.
+> Deflation redistributed real wealth from debtors to creditors.
+Deflation redistributed real wealth from creditors to debtors.
