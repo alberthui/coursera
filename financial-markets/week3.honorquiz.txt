@@ -1,0 +1,110 @@
+1. Question 1
+Which of the following did Eugen von Böhm-Bawerk NOT believe caused the interest rate to be a small positive number?
+
+This is approximately the rate of technological progress.
+There are advantages to roundaboutness.
+People value money more today than they do in a year.
+> Financial knowledge and expertise accumulates at a societal level at approximately this rate.
+
+2. Question 2
+If you put $1000 into an account with a 20% interest rate, how much money will you have at the end of the year if interest is compounded CONTINUOUSLY?
+
+(When inputting your answer, enter your rounded answer without decimal precision and do not type in the $ dollar sign)
+1221
+
+3. Question 3
+Suppose that a consol has a promised payment of 6 pounds per 100 pounds notional. This consol is now traded at 150 pounds. What it the current yield to maturity of the consol?
+
+1%
+2%
+3%
+> 4%
+
+4. Question 4
+You observe that on today’s yield curve, the one year rate is R1=6% and the two year rate is R2=6.5%. What is the one year forward rate one year from now ?
+
+6.5%
+> 7%
+5%
+6%
+
+5. Question 5
+A tech company can make a 3% real return on an investment. It can borrow funds to finance the investment at a nominal rate of 6% and the inflation rate is 1%. Hence:
+
+The investment will be profitable.
+> The investment will be unprofitable.
+The real rate of interest is 3%.
+The real rate of interest is 2%.
+
+6. Question 6
+If expected inflation is less than actual inflation, then wealth will be redistributed from:
+
+> Lenders to borrowers.
+The consumers to the government.
+The government to consumers.
+Borrowers to lenders.
+
+7. Question 7
+The market capitalization of a company provides information on:
+
+The pension benefits provided by the company.
+> The value of a company.
+The capital expenditures of the company.
+The industry the company operates in.
+
+8. Question 8
+Which of the following are true for stock splits ? (check all that apply)
+
+> Market price per share is reduced after the split.
+> The total number of outstanding shares increases.
+> Proportional ownership is unchanged.
+Retained earnings are changed.
+
+9. Question 9
+A rationale for preferred stock:
+
+It lowers the cost of financing, as compared with debt issuance.
+The dividends associated with it are tax-deductible.
+> It expands the capital base without diluting common equity.
+Its holder benefits from an increased ownership in the company.
+
+10. Question 10
+The Pecking Order Theory indicates that firms prefer _______ financing to _______ financing.
+
+
+stock; debt
+stock; retained earning
+> internal; external
+flexible; risky
+
+11. Question 11
+If the company I invest in issues a stock dividend at 5%, the value of my original shares are ___________ by a factor ___________. I am ___________ since I have an additional ___________ of value in the new shares.
+
+raised, 1.05/1, better off, 0.05/1.05
+raised, 1.05/1, worse off, 0.05/1.05
+lowered, 1/1.05, worse off, 0.05/1.05
+> lowered, 1/1.05, better off, 0.05/1.05
+
+12. Question 12
+Which one of the following statements is correct?
+
+A stock repurchase increases the market value per share.
+A cash dividend has no effect on the market value per share.
+> Stock repurchases are more tax advantageous than are cash dividends.
+Stock repurchases provide more income to shareholders compared to dividends.
+
+13. Question 13
+A company whose stock is selling at a price-to-earnings (P/E) ratio that is greater than the P/E ratio of the market most likely has:
+
+An anticipated earnings growth rate which is less than that of the average traded firm within the market.
+A smaller dividend yield compared to the dividend yield of an average traded firm within the market.
+An unpredictable future stream of earnings.
+> A dividend yield which is smaller than the one of an average traded firm within the market.
+
+14. Question 14
+What are the main implications of John Lintner’s dividend model?
+
+A firm should always pay a dividend equal to its EPS (earnings per share).
+> A firm has to strike a balance. It should pay a dividend to share some of its earnings with shareholders but its dividend should not be too high, because that might lead to a cut in the dividend in a following year, which leads to a negative reaction among shareholders.
+If the company’s EPS is smaller than last year’s dividend, the company should engage in share repurchases.
+A firm should never pay any dividends.
