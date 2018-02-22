@@ -1,0 +1,71 @@
+1. Question 1
+Why must we consider psychological factors when speaking about housing prices?
+
+Applying certain psychological factors can increase a portfolio’s risk.
+Psychologists have developed mathematical formulas to accurately forecast housing prices.
+> Without psychological factors, a larger percentage of real estate prices would be determined by construction costs.
+People behave in very predictable ways, so it is possible to make a lot of money by investing in real estate.
+
+2. Question 2
+Select TWO important actions of the Federal Housing Administration.
+
+> Require loans to be at least 15 years.
+Impose a sharp tax on real estate.
+> Insure lenders against losses
+Guarantee employment for home-owners.
+
+3. Question 3
+Which of the following definitions are correct? (check all that apply)
+
+> Fixed rate mortgages are mortgages where the interest rate does not change over time.
+An adjustable rate mortgage (ARM) does not have a fixed interest rate, but increases gradually over time.
+> Shared Appreciation Mortgages (SAMs) require you to pay some percentage of the appreciation of your house.
+> Price Level Adjusted Mortgage (PLAMs) are adjusted to inflation.
+
+4. Question 4
+Which of the following started happening to CDOs in 2007?
+
+> Defaults started to affect the highest tranche
+CDOs replaced CMOs for mortgages.
+CDOs had to be bailed out by the government
+AAA tranches were re-rated to be of similar risk to the lowest tranche.
+
+5. Question 5
+Why are banks incentivized to offer Qualifying Residential Mortgages (QRMs)?
+
+QRMs are mortgages that are unlikely to default, so by offering them, banks can ensure that they will not lose large amounts of money from defaults.
+> Banks are usually in the business of initiating but not keeping mortgages, so offering QRMs allows them to sell them all to a CMO.
+Banks are usually in the business of initiating but not keeping mortgages, but QRMs are high enough quality that banks would want to keep them.
+The government forces banks to offer them if they want to offer any kind of mortgage.
+
+6. Question 6
+Which of the following is NOT in practice a problem with regulation?
+
+> Regulation can cause a monopoly if only one company can keep up with the expenses of complying with the regulations.
+It may be possible to bribe corrupt regulators.
+A lot of money is lost on paperwork for complying with regulations.
+Companies may be disincentivized to grow beyond a certain size to avoid extra regulations.
+
+7. Question 7
+Which of the following correctly describes a type of hedge fund? (check all that apply)
+
+> 3c1 hedge funds can take no more than 99 investors, each of whom must have an income of at least $200,000 or investable assets of at least $1,000,000.
+3c3 hedge funds can take up to 999 investors, each of whom must be an individual with a net worth of at least $10,000,000 or an organization with a net worth of at least $100,000,000.
+> 3c7 hedge funds can take up to 500 investors, each of whom must be an individual with a net worth of at least $5,000,000 or an organization with a net worth of at least $25,000,000.
+3c8 hedge funds can take no more than 50 investors, each of whom must have an income of at least $200,000 or investable assets of at least $5,000,000.
+
+8. Question 8
+Which is NOT	true about Generally Accepted Accounting Principles (GAAP)?
+
+They are used for EDGAR.
+> It invented the concept of Earnings Before Interest, Taxes, Depreciation, and Amortization (EBIT)
+It maintains official definitions of “net income” and “operating income”,
+They are defined by the Financial Accounting Standards Board (FASB)
+
+9. Question 9
+What is rating shopping?
+
+Banks only ask low-integrity rating services to rate mortgages.
+Banks tell rating services the rating they wanted before it was rated.
+Banks stop caring about the rating anymore as long as they can find someone to buy it.
+> Banks ask several mortgage rating services what their rating will be on a mortgage, and then pick the best rating.
